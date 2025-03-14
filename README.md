@@ -5,7 +5,5 @@ Disclaimer: I don't own the rights of the logo, everything else is licensed unde
 See also raylib_license.txt
 
 # How to build
-On linux with GCC you can build by running "gcc logobouncer.c -lraylib"
-remeber to copy or download raylib.h to /usr/local/include
-
-On Windows you can build using mingw.
+You can follow instructions on the Raylib site repository:
+https://github.com/raysan5/raylib?tab=readme-ov-file#build-and-installation
